@@ -1,0 +1,7 @@
+apiVersion: acloud.guru/v1
+kind: BeeHive
+metadata:
+  name: two-test-beehive
+spec:
+  supers: 40
+  bees: 60000
